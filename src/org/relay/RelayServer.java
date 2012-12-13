@@ -1,4 +1,4 @@
-package relay;
+package org.relay;
 
 import java.io.FileInputStream;
 import java.io.IOException;
