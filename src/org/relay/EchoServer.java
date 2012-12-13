@@ -16,7 +16,7 @@ public class EchoServer {
     		try {
 		        int port = 2001;
 		        ServerSocket srv = new ServerSocket(port);
-		        System.out.println("Started Echo Server...");
+		        System.out.println("Started Echo Server.-..");
 		        while(true){
 			        // Wait for connection from client.
 			        Socket socket = srv.accept();
